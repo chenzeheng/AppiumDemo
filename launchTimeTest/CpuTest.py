@@ -10,7 +10,7 @@ class Controller(object):
         self.counter = count
         self.alldata = [("timestamp", "cpustatus")]
 
-    #单次测试过程
+    #单次测试过程1
     def testprocess(self):
         result = os.popen("adb shell dumpsys cpuinfo | findstr com.android.browser")
         for line in result.readlines():
