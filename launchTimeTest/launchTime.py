@@ -5,9 +5,6 @@ import  os
 #app类
 import time
 
-from openpyxl.compat import file
-
-
 class App(object):
 	def __init__(self):
 		self.content=""
