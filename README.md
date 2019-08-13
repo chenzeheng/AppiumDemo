@@ -1,3 +1,1 @@
-"# APP-xingneng" 
-"# AppiumDemo" 
-"# AppiumDemo" 
+# appium 自动化demo
